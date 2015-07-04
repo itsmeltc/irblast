@@ -1,0 +1,3 @@
+[submodule "arduino/libraries/IRremote"]
+	path = arduino/libraries/IRremote
+	url = https://github.com/shirriff/Arduino-IRremote.git
